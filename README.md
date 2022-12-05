@@ -30,6 +30,8 @@ You can add some bullet points if you'd like to:
 
 ```bash
 git clone github.com/Noroff-FEU-Assignments/project-exam-1-thomsev.git
+```
+
 
 ## Contact
 
